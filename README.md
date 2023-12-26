@@ -1,1 +1,1 @@
-#this is my repo for learn how to add code using vscode on git
+# this is my repo for learn how to add code using vscode on git
